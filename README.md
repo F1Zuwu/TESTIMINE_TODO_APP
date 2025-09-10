@@ -1,4 +1,4 @@
-<h2>🧪 Testimisplaan</h2>
+<h2>Testimisplaan</h2>
 
 <p>Alljärgnev testimisplaan katab kogu To-Do rakenduse põhifunktsionaalsuse. Testimine on tehtud kasutades <strong>Jest</strong> ja <strong>React Testing Library</strong>. Lisaks on loogika funktsioonid testitud eraldi utiliidi tasemel.</p>
 
